@@ -2,7 +2,7 @@
 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 ```
 Name: HAMZA FAROOQUE
-Reg No: 2122230400544
+Reg No: 212223040054
 ```
 Experiment:
 Develop a comprehensive report for the following exercises:
